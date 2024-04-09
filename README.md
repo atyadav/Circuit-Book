@@ -1,14 +1,10 @@
-# Circuit-Book
-This contains my work on Circuit Book Product. Contains 10 cards / designs.
+# Circuit-Book Overview
+This compilation features my endeavors concerning the Circuit Book Product, encompassing 10 distinct cards/designs.
 
-Objective of the Circuit Book is too teach young students about basics of electronics by creating working circuits on Paper.
+The primary aim of the Circuit Book is to educate young learners about the fundamentals of electronics through the creation of functional circuits on paper, thereby facilitating simultaneous theoretical learning and practical application.
 
-It is a collection of Paper Circuit cards, each card denoting a basic electronic circuit along with a real-life example/application of the same. Kids can basically learn about the stuff as well as do it in person and derive the fun.  TO build the circuits you shall need a battery, copper / nylon conductive tape, off the shelf electronics components along with the circuit cards itself. 
+It consists of a series of Paper Circuit cards, with each card representing a basic electronic circuit accompanied by a real-world example/application. Through these cards, children can not only grasp theoretical concepts but also engage in hands-on experimentation, fostering an enjoyable learning experience. To assemble the circuits, one requires a battery, copper or nylon conductive tape, readily available electronic components, and the circuit cards themselves.
 
-Check this you tube videos to check how to make use of the cards - 
+For guidance on utilizing the cards, refer to the following YouTube video: [YouTube Link](https://youtu.be/Ev0PvsdgItg?si=kxI9LXUboW1CIjqt)
 
-https://youtu.be/Ev0PvsdgItg?si=kxI9LXUboW1CIjqt
-
-Objective of making these cards public is to get community involved in imporving existing designs, adding new electronic cards and share with community to use.
-
- 
+The primary objective of making these cards accessible to the public is to encourage community involvement in refining existing designs, introducing new electronic cards, and facilitating sharing within the community for widespread utilization.
